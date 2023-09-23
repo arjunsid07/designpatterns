@@ -1,0 +1,4 @@
+-> Need to define a new operation on an entire class hierarchy, we can't modify every class
+in hierarchy.
+-> So, we'll create an external component to handle this.
+-> A component(visitor) that knows how to traverse a data struture composed of related or diff types.

@@ -1,0 +1,8 @@
+A component that processes structured text data. Does so by turning it into separate
+lexical tokens(lexing) and then interpreting sequences of said tokens (parsing).
+
+  Uses : 
+    1. Programming language compilers interpretors etc.
+    2. HTML/XML
+    3. Numeric Expression
+    4. Regular Expression

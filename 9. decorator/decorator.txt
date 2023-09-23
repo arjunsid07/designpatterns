@@ -1,0 +1,8 @@
+1. To add new functionalities in existing code without modifying original code(Open Close Principle)
+2. Need to keep new functionality separate(Single Responsibility Principle)
+3. Need to be able to interact with existing structures
+4. Two options are there:
+    4.1. Inherit from required object
+    4.2. Build a decorator, which simply references the decorated object(s)
+
+5. A decorator facilitates the addition of behaviours to individual objects without inheriting from them.

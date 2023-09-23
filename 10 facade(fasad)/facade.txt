@@ -1,0 +1,2 @@
+--> Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
+--> Hiding complex functionalities and allowing simple usage to users.

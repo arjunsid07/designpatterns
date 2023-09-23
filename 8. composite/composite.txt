@@ -1,0 +1,5 @@
+1. Objects use other objects' fields methods via inheritance and composition.
+2. Composition lets us make componund objects.
+3. Composite design patterns is used to treat both single (scalar) and composite objects uniformly.
+    e.g. class foo and an array of foos having the same API.
+    

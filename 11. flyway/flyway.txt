@@ -1,0 +1,2 @@
+1. A list of names is stored, many names are identical, so there's no sense in storing same name multiple times.
+2. A space optimization technique that lets us use less memory by storing externally the data associated with similar objects.

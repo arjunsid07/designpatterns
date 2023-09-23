@@ -1,0 +1,2 @@
+1. We can't modify our interface for every use case
+2. We use adapters to modify the interfaces to make it useful for different scenarios

@@ -1,0 +1,4 @@
+1. The Bridge design pattern allows you to separate the abstraction from the implementation. It is a structural design pattern. 
+2. Say there are multiple shapes and multiple renderers for that shape. So, to render any shape with any renderer we'll have to make
+    m*n classes(m-> no. of shapes, n -> no. of renderers). To avoid that we use bridge pattern to make a bridge between shapes and renderers.
+     

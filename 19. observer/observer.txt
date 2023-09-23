@@ -1,0 +1,4 @@
+-> An observer is an object that wishes to be informed about events happening in the system. 
+The entity generating the event is an observable.
+-> Also used to unsubscribe from events if we no longer needed the subscription
+-> Redux, final form subscription

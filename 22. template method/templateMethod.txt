@@ -1,0 +1,6 @@
+-> Allows us to define the skeleton of the algorithm, with concrete implementations 
+defined in subclasses.
+-> Enables the exact behavior of a system to be selectd at runtime.
+-> Algorithm decomposed into common parts, template method does it through inheritance.
+-> Base class has abstract methods and original definitions gets overwritten in inheritors.
+-> Parent template method invoked.

@@ -1,0 +1,3 @@
+-> A token/handle representing the system state. 
+Let us roll back to the state when the token was generated.
+May or may not directly expose state information.

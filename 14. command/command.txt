@@ -1,0 +1,4 @@
+-> An object which represents an instuction to perform a particular action.
+Contains all the information necessary for the action to be taken.
+-> Used - 1. Multi level undo/redo
+        - 2. GUI commands

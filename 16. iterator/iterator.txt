@@ -1,0 +1,8 @@
+-> An object that facilitates the traversal of a data structure
+-> JS supports this through:
+    - Symbol.iterator member that returns 
+    - An iterator object with a function call next() 
+    - next() returns an object containing
+        1. value being iterated
+        2. done flag indicating whether iteration is finished
+        
